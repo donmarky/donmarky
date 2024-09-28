@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Romark Cedon
 
-I'm a Computer Engineering student at Camarines Sur Polytechnic Colleges. I have a passion for technology, programming, and problem-solving. I'm excited to share my projects and collaborate with others in the tech community!
+I'm a **Computer Engineering student** at **Camarines Sur Polytechnic Colleges**. I have a passion for technology, programming, and problem-solving. I'm excited to share my projects and collaborate with others in the tech community!
 
 ## 🚀 About Me
 
